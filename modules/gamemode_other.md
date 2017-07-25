@@ -4,6 +4,8 @@ layout: page
 category: "Modules"
 title:  "Other Game Modes"
 nav_content:
+  - path: "#rush"
+    name: "Rush"
   - path: "#gs"
     name: "Ghost Squadron"
   - path: "#rage"

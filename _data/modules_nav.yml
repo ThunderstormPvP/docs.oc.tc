@@ -43,6 +43,8 @@ content:
     name: "Blitz"
   - path: "/modules/scoring"
     name: "Scoring"
+  - path: "/modules/gamemode_rush"
+    name: "Rush"
   - path: "/modules/gamemode_other"
     name: "Other Game Modes"
   - "Mechanics"
