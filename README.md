@@ -1,4 +1,4 @@
-### PGM XML Documentation
+### PGM XML Documentation - Thunderstorm PvP Edition
 
 Documentation for the XML format [PGM](https://github.com/OvercastNetwork/ProjectAres/) uses to define map specific features.
 Pages are hosted using github pages.
