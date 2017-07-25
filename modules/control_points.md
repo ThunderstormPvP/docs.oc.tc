@@ -192,6 +192,26 @@ Control point give a certain amount of point to the team currently holding it. O
       </tr>
       <tr>
         <td>
+          <code>announce</code>
+        </td>
+        <td>
+          Broadcast a message when a "hidden" control point's ownership changes
+          <br/>
+          <span class='label label-info'>Note</span>
+          This only works when <code>show</code> is set to false
+        </td>
+        <td>
+          <span class='label label-primary'>true/false</span>
+        </td>
+        <td>
+          false
+        </td>
+        <td>
+          false
+        </td>
+      </tr>
+      <tr>
+        <td>
           <code>neutral-state</code>
         </td>
         <td>

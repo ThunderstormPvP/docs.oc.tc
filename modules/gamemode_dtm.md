@@ -177,6 +177,18 @@ Completion specifies how much of the material(s) inside of the monument region m
       </tr>
       <tr>
         <td>
+          <code>deny-message</code>
+        </td>
+        <td>
+          Send a message when attempting to damage an one's own destroyable
+        </td>
+        <td>
+          <span class='label label-primary'>true/false</span>
+        </td>
+        <td>false</td>
+      </tr>
+      <tr>
+        <td>
           <code>repairable</code>
         </td>
         <td>

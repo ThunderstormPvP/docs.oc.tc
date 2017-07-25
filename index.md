@@ -13,8 +13,12 @@ layout: default
 </div>
 <div class="row">
 <div class="col-sm-6" markdown="1">
+
+### Thunderstorm PvP
+This site currently documents a special fork of PGM which is running on Thunderstorm PvP. All maps being submitted to our servers will be required to adhere to the XML format defined on this site.
+
 ### What Do XML Files Do?
-XML files configure how the PGM plug-in manages the map during game-play. Any map released on the Lifeboat Network requires a XML file to function properly. The XML defines aspects of the game such as spawn points, teams, kits and more. Each file is unique to its map, however the individual components are generic and are used on many different maps.
+XML files configure how the PGM plug-in manages the map during game-play. Any map released on the Thunderstorm PvP requires a XML file to function properly. The XML defines aspects of the game such as spawn points, teams, kits and more. Each file is unique to its map, however the individual components are generic and are used on many different maps.
 
 
 ### Writing XML Files
