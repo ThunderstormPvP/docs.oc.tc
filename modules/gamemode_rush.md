@@ -6,7 +6,7 @@ title:  "Rush"
 
 ---
 
-Rush is essentially a racing game mode. A map will define three main regions, a spawn point, start line, and finish line. When players spawn on the map, spectators originally spawn at the spawn-point. Players will then be picked by random one after another until everyone has had their turn. Scores are calculated by the amount of time it takes for a player to complete the course. If a player never passes the start line they will be given a score of 1. Player's who do not pass the finish line or die will get a number calculated from their last time. The player with the highest score (shortest time) will win the match.
+Rush is essentially a racing game mode. A map will define three main regions, a spawn point, start line, and finish line. When players spawn on the map, spectators originally spawn at the spawn-point. Players will then be picked by random one after another until everyone has had their turn. Scores are calculated by the amount of time it takes for a player to complete the course. If a player never passes the start line they will be given a score of 1. Players who do not pass the finish line or die will get a number calculated from their last time. The player with the highest score (shortest time) will win the match.
 
 <div class='table-responsive'>
   <table class='table table-striped table-condensed'>
@@ -111,7 +111,7 @@ Rush is essentially a racing game mode. A map will define three main regions, a 
         <td>
           <code>regenerate</code>
         </td>
-        <td>Reset the map to it's original state after each turn.</td>
+        <td>Reset the map to its original state after each turn.</td>
         <td>
           <span class='label label-primary'>True/False</span>
         </td>
